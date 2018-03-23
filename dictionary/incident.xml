@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,all_tables.query_hints=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="インシデント" max_length="40" name="incident" sizeclass="7047" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Dev Test Field" max_length="1000" name="x_snc_dev_test_dev_test_field" type="string"/>
+    </element>
+</database>
